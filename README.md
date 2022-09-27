@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Recently graduated from SJSU
-- 👯 Learned SQL, Python and Tableau
-- 🤔 I’m looking for new career growth
+- 👩‍🎓 Recently graduated from SJSU
+- 📖 Learned SQL, Python and Tableau
+- 🙌 I’m looking for career growth
 
 
